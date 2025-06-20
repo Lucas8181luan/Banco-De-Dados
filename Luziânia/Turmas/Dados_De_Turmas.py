@@ -9,7 +9,6 @@ from pathlib import Path
 def programa(V):
     # Configurações
     UNIDADE_ID = 831
-    TURMA_ID = 913 
     API_URL = f"https://api.f10.com.br/unidade/turmas/{UNIDADE_ID}/{V}"
     API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhbGVzc2FuZHJvQGdhbWEuY29tLmJyIiwiaXNzIjoiRjEwIEFQSSIsImlhdCI6MTc0ODAwOTkyMSwiZXhwIjoyMDMyMDI4MzIxfQ.gNHt7U1x97tzKAsNajrBK92eByq9WGKafFAn1uirSyc"
     

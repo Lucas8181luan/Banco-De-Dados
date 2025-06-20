@@ -11,7 +11,7 @@ def programa():
     CAMINHO_CSV = "C:/Users/lucas/OneDrive/Documentos/GitHub/F10-Software/Banco-De-Dados/Luziânia/Turmas/Dados_Lista_Turmas.csv"
     CAMINHO_CREDENCIAL = "C:/Users/lucas/OneDrive/Documentos/GitHub/F10-Software/Banco-De-Dados/n8n-credenciais-459013-3016ec1fb1f1.json"
     PLANILHA_ID = "1z4IoxPNgEnL0hLgC5eriOkINmHfcjm99lsZRoE2UYq0"
-    NOME_ABA = "Turmas"
+    NOME_ABA = "Lista Turmas"
 
     headers = {
         "Authorization": f"Bearer {API_KEY}",
