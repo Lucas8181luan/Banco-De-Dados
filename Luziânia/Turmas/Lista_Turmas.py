@@ -87,5 +87,4 @@ def programa():
     set_with_dataframe(aba, df_final)
     print(f"✅ Planilha atualizada com {len(df_final)} registros")
 
-# Executa puxando tudo
-programa()
+    return df_final 
